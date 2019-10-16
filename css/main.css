@@ -1,0 +1,45 @@
+html {
+  background-color: #eee9de;
+}
+
+section {
+  padding: 1em 2em .4em .75em .5em;
+  margin: 1.5rem;
+}
+
+img {
+  vertical-align: middle;
+  width: 90;
+  max-width: none;
+}
+
+h2 {
+  font-family: Lato, sans-serif;
+  font-weight: bold;
+  color: #333;
+}
+
+p {
+  font-family: Lato, sans-serif;
+  color: #333;
+  text-align: left;
+  line-height: 1.5;
+}
+
+a:link, a:visited {
+  font-family: Lato, sans-serif;
+  font-weight: bold;
+  color: #333;
+  padding: .6em .5em .75em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 5px;
+  border: 1px solid #333;
+  margin: .05em;
+}
+
+a:hover, a:active {
+  background-color: #666;
+  border: 1px solid #666;
+}
